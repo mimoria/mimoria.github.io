@@ -1,4 +1,17 @@
-html, body {
-  font-family: 'メイリオ';
-  background-color: darkviolet;
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+
+body {
+  font-family: "M PLUS Rounded 1c", "メイリオ";;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box {
+  background: floralwhite;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
 }
