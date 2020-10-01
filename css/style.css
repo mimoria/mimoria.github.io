@@ -15,3 +15,9 @@ body {
   padding: 20px;
   text-align: center;
 }
+#messageTitle {
+  font-size: 1.5em;
+}
+.mainText {
+  font-size: 1em;
+}
