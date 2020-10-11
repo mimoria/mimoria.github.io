@@ -16,8 +16,8 @@ window.onload = function() {
       '何かあったら何でも言ってねー(^-^)/^1000\n' +
       'ではでは　良い一日を👍^1000\n' +
       '\nFrom H\n' +
-      'p.s.\n' +
-      'ちゃんと表示されてなかったらゴメンね😋'],
+      'p.s. ちゃんと表示されてなかったら\n' +
+      'ゴメンね😋'],
     typeSpeed: 50,
     backSpeed: 0,
     loop: false
